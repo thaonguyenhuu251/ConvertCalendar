@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Chuyển đổi năm dương lịch</string>
+    <string name="input_year">Năm dương lịch:</string>
+
+    <string-array name="can_year">
+        <item>Canh</item>
+        <item>Tân</item>
+        <item>Nhâm</item>
+        <item>Quý</item>
+        <item>Gíap</item>
+        <item>Ất</item>
+        <item>Bính</item>
+        <item>Đinh</item>
+        <item>Mậu</item>
+        <item>Kỷ</item>
+    </string-array>
+
+    <string-array name="chi_year">
+        <item>Thân</item>
+        <item>Dậu</item>
+        <item>Tuất</item>
+        <item>Hợi</item>
+        <item>Tý</item>
+        <item>Sửu</item>
+        <item>Dần</item>
+        <item>Meo</item>
+        <item>Thìn</item>
+        <item>Tỵ</item>
+        <item>Ngọ</item>
+        <item>Mùi</item>
+    </string-array>
+
+</resources>
